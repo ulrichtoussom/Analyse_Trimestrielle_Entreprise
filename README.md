@@ -28,6 +28,8 @@ RÉSULTATS ATTENDUS
 •	Coefficients saisonniers pour chaque trimestre.
 •	Série temporelle désaisonnalisée.
 •	Prévisions des ventes pour le premier et le deuxième trimestre de 2025.
+
+ 
 Conclusion
 Ce projet fournira une analyse complète des données de ventes trimestrielles, permettant de comprendre les composantes de la série temporelle et de prévoir les ventes futures. Les résultats de cette analyse peuvent être utilisés pour prendre des décisions éclairées concernant la planification des ventes et la gestion des stocks.
 
